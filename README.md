@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vaishnavi-Datarkar
+- 👀 I’m interested in Data Engineering, Data Analyst, and building impactful data-driven solutions.
+- 🌱 I’m currently learning Advanced SQL, Data Visualization, and optimizing machine learning models.
+- 💞️ I’m looking to collaborate on open-source projects Data Engineering, Data Analyst, real-time dashboards, and machine learning applications.
+- 📫 How to reach me  LinkedIn or Email
+- 😄 Pronouns:  She/Her
+- ⚡ Fun fact: I love analyzing patterns in everything from music playlists to social media trends!
